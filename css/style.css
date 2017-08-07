@@ -305,7 +305,7 @@ ul {
   bottom: 0;
   text-align: center;
   transition: bottom 1s;
-  z-index: 444;
+  z-index: 666;
   background: rgba(0, 120, 63, 0.9);
   display: flex;
   flex-direction: row;
@@ -346,7 +346,7 @@ ul {
   bottom: 0;
   height: 50px;
   width: 100%;
-  z-index: 1;
+  z-index: 555;
 }
 
 @media (max-width: 1080px) and (min-width: 1000px) {
