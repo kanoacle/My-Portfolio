@@ -636,7 +636,7 @@ ul {
     height: 100vh;
     position: absolute;
     background: url(../img/home-bg.jpg);
-    background-position: 75% 100px;
+    background-position: 75% 75px;
     background-size: auto 90%;
     background-repeat: no-repeat;
     z-index: 555;
